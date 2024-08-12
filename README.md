@@ -1,6 +1,8 @@
 <h1 align="center">Hola, soy Andrea Barraza</h1>
 <h3 align="center">Desarrollador Junior FullStack</h3>
+
 - 📚 Ingeniera y licenciada en inform&aacute;tica de la **Universidad Tecnol&oacute;gica de Chile - INACAP**
+  
 <h3 align="left">Lenguajes de Programaci&oacute;n</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
